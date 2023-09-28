@@ -1,0 +1,1 @@
+[{"filed": "title", "xpath": "./div/div[4]/a/em/text()"}, {"filed": "price", "xpath": "./div/div[3]/strong/i/text()"}, {"filed": "store", "xpath": "./div/div[7]/span/a/text()"}]
